@@ -31,7 +31,7 @@ public class NumberCombination {
             }
         }
 
-        System.out.println("Voici le tableau final obtenue : "+Arrays.toString(tab));
+        System.out.println("Voici le tableau final obtenu : "+Arrays.toString(tab));
         System.out.println("Voici le nombre d'essai effectué pour obtenir le tableau : "+cpt);
     }
 
