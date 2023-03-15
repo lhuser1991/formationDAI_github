@@ -38,6 +38,8 @@ public class NumberCombination {
     public static void main(String[] args) throws Exception {
         System.out.println("Bonjour, vous êtes dans le fichier NumberCombination.java. Bonne séance de codding :).");
 
+        // Je suis sur brancheA.
+
         // Objectif : afficher un tableau composé de 3 nombres aléatoires compris entre 0 et 10 avec comme condition :
         // 1) les deux premiers nombres du tableau doivent êtres pairs et le troisième impairs.
         // é) afficher le nombre d'essai effectué pour obtenir le tableau désiré.
